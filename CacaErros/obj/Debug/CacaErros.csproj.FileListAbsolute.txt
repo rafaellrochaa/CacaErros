@@ -1,0 +1,18 @@
+c:\users\rafael\documents\visual studio 2013\Projects\CacaErros\CacaErros\bin\Debug\CacaErros.exe.config
+c:\users\rafael\documents\visual studio 2013\Projects\CacaErros\CacaErros\obj\Debug\CacaErros.csprojResolveAssemblyReference.cache
+c:\users\rafael\documents\visual studio 2013\Projects\CacaErros\CacaErros\bin\Debug\CacaErros.exe
+c:\users\rafael\documents\visual studio 2013\Projects\CacaErros\CacaErros\bin\Debug\CacaErros.pdb
+c:\users\rafael\documents\visual studio 2013\Projects\CacaErros\CacaErros\bin\Debug\Npgsql.dll
+c:\users\rafael\documents\visual studio 2013\Projects\CacaErros\CacaErros\bin\Debug\Npgsql.xml
+c:\users\rafael\documents\visual studio 2013\Projects\CacaErros\CacaErros\obj\Debug\CacaErros.exe
+c:\users\rafael\documents\visual studio 2013\Projects\CacaErros\CacaErros\obj\Debug\CacaErros.pdb
+c:\users\rafael\documents\visual studio 2013\Projects\CacaErros\CacaErros\bin\Debug\Mono.Security.dll
+c:\users\rafael\documents\visual studio 2013\Projects\CacaErros\CacaErros\bin\Debug\de\Npgsql.resources.dll
+c:\users\rafael\documents\visual studio 2013\Projects\CacaErros\CacaErros\bin\Debug\es\Npgsql.resources.dll
+c:\users\rafael\documents\visual studio 2013\Projects\CacaErros\CacaErros\bin\Debug\fi\Npgsql.resources.dll
+c:\users\rafael\documents\visual studio 2013\Projects\CacaErros\CacaErros\bin\Debug\fr\Npgsql.resources.dll
+c:\users\rafael\documents\visual studio 2013\Projects\CacaErros\CacaErros\bin\Debug\ja\Npgsql.resources.dll
+c:\users\rafael\documents\visual studio 2013\Projects\CacaErros\CacaErros\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Rafael\Source\Repos\CacaErros\CacaErros\bin\Debug\CacaErros.exe.config
+C:\Users\Rafael\Source\Repos\CacaErros\CacaErros\obj\Debug\CacaErros.exe
+C:\Users\Rafael\Source\Repos\CacaErros\CacaErros\obj\Debug\CacaErros.pdb
